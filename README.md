@@ -1,1 +1,1 @@
-CMU Africa Applied Stochastic Course
+CMU Africa Machine Learning for Earth Observation
