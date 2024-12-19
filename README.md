@@ -1,1 +1,1 @@
-CMU Africa Machine Learning For Earth Observation
+CMU Africa Machine Learning for Earth Observation
